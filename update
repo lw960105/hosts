@@ -3,7 +3,7 @@
 ["Message"]="\
 请卸载所有老版本后再安装此版本！H资源路口请长按左侧栏顶部图片打开！\
 ",
-["ID"]="2",
+["ID"]="3",
 ["Title"]="提示",
 },["Update"]={
 ["DownloadUrl"]="http://ss.52api.ml/ssr-download/YouAv.apk",
